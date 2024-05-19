@@ -1,0 +1,19 @@
+{
+    "name": "ajeya/hello-world-package",
+    "description": "A basic hello world package.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ajeya\\HelloWorldPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ajeya Paul",
+            "email": "paulajeya@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

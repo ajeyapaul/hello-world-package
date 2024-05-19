@@ -1,0 +1,17 @@
+# Ignore Composer's vendor directory
+/vendor/
+
+# Ignore Composer's lock file
+composer.lock
+
+# Ignore PHPUnit result cache
+.phpunit.result.cache
+
+# Ignore IDE-specific files
+/.idea/
+/.vscode/
+/nbproject/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
